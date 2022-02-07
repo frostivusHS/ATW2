@@ -386,16 +386,15 @@
         },
         {
             "hsClasses": ["Hunter"],
-            "src": "https://i.imgur.com/eO9F97M.png",
-            "set": 0,
-            "flavor": "The gable was littered with stone statues, their faces eternally contorted in an expression of both surprise and agony. We had entered the cockatrice's den."
-        },
-        {
-            "hsClasses": ["Hunter"],
             "src": "https://i.imgur.com/4p53vIA.png",
             "set": 1
         },
-
+        {
+            "hsClasses": ["Hunter"],
+            "src": "https://i.imgur.com/eO9F97M.png",
+            "set": 0,
+            "flavor": "The gable was littered with stone statues, their faces eternally contorted in an expression of both surprise and agony.\n\"We had entered the cockatrice's den."
+        },
         {
             "hsClasses": ["Hunter"],
             "src": "https://i.imgur.com/QJ3EVjB.png",
@@ -410,6 +409,18 @@
             "hsClasses": ["Hunter"],
             "src": "https://i.imgur.com/t6Lo6rb.png",
             "set": 1
+        },
+        {
+            "hsClasses": ["Hunter"],
+            "src": "https://i.imgur.com/EQjfqdk.png",
+            "set": 0,
+            "flavor": "I vaulted over the 'DO NOT FEED WILDLIFE' sign and tossed a pile of picked bones at the hydra fledgling. What was the worst that could happen?, I had thought.\n\"Many hours and repeated rebellious acts later, my answer would be staring at me face-to-face-to-face-to-face from seventy feet high."
+        },
+        {
+            "hsClasses": ["Hunter"],
+            "src": "https://i.imgur.com/bB4TkiL.png",
+            "set": 0,
+            "flavor": "Now me own successful banana franchise, you see me enjoy fruits of me success.\n\"But it no always easy.Was tough for long time. Me had to eat insects from own fur because me was so poor.\n\"But me persevere. Me buy suspenders and bowler hat. Then when no one still come, me buy brass knuckles. Then people come. Me found successful business strategy!\n\"Buy me bananas! Or else."
         }
     ],
 
