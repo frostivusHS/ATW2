@@ -313,7 +313,8 @@
             "keywords": ["https://i.imgur.com/OGCDiTV.png"],
             "flavour": "Wildberries can really help to calm the palate after eating your umpteenth dried caterpillar cocoon for breakfast."
         },
-          "hsClasses": ["Hunter"],
+        {
+            "hsClasses": ["Hunter"],
             "src": "https://i.imgur.com/7lB6EjC.png",
             "set": 0,
             "keywords": ["https://i.imgur.com/TtZmJds.png"], ["https://i.imgur.com/ls59YdF.png"]
