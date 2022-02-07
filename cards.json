@@ -263,42 +263,33 @@
             "hsClasses": ["Hunter"],
             "src": "https://i.imgur.com/tq9gYCb.png",
             "set": 0,
-            "keywords": ["https://i.imgur.com/tq9gYCb.png"],
             "flavour": "The campmaster was offering me no other foods. I chose to go hungry."
         },
         {
             "hsClasses": ["Hunter"],
             "src": "https://i.imgur.com/6hyYSU7.png",
             "set": 0,
-            "keywords": ["https://i.imgur.com/6hyYSU7.png"],
             "flavour": "As we grew more and more vigilant with our food provisions, the monkeys only grew craftier. By the third day, we had lost half of our rations from a joint operation of treetop fishing and midnight raiding.."
-        },
-         {
-            "hsClasses": ["Hunter"],
-            "src": "https://i.imgur.com/Ss07RPA.png",
-            "set": 0,
-            "keywords": ["https://i.imgur.com/Ss07RPA.png"],
-            "flavour": "If you yelled 'Tally ho!', the dog would run off to look for the nearest thing it considered edible. Most of the time it would be sticks, but that wasn't too bad either."
-        },
-        {
-            "hsClasses": ["Hunter"],
-            "src": "https://i.imgur.com/QdeTnJ5.png",
-            "set": 0,
-            "keywords": ["https://i.imgur.com/QdeTnJ5.png"],
-            "flavour": "When I was a wee lass I used to chase the hapless chicks on the farm around to pass the time. Years later, it seemed these vengeful poultry still remember."
-        },
-         {
-            "hsClasses": ["Hunter"],
-            "src": "https://i.imgur.com/OGCDiTV.png",
-            "set": 0,
-            "keywords": ["https://i.imgur.com/OGCDiTV.png"],
-            "flavour": "Wildberries can really help to calm the palate after eating your umpteenth dried caterpillar cocoon for breakfast."
         },
         {
             "hsClasses": ["Hunter"],
             "src": "https://i.imgur.com/EHcRezM.png",
             "set": 1,
             "keywords": ["https://i.imgur.com/Pfy2FNc.png"]
+        },
+           {
+            "hsClasses": ["Hunter"],
+            "src": "https://i.imgur.com/Ss07RPA.png",
+            "set": 0,
+            "keywords": ["https://i.imgur.com/Ss07RPA.png"],
+            "flavour": "If you yelled 'Tally ho!', the dog would run off to look for the nearest thing it considered edible. Most of the time it would be sticks, but that wasn't too bad either."
+        },
+         {
+            "hsClasses": ["Hunter"],
+            "src": "https://i.imgur.com/QdeTnJ5.png",
+            "set": 0,
+            "keywords": ["https://i.imgur.com/QdeTnJ5.png"],
+            "flavour": "When I was a wee lass I used to chase the hapless chicks on the farm around to pass the time. Years later, it seemed these vengeful poultry still remember."
         },
         {
             "hsClasses": ["Hunter"],
@@ -314,6 +305,19 @@
             "hsClasses": ["Hunter"],
             "src": "https://i.imgur.com/T0DdJU8.png",
             "set": 1
+        },
+          {
+            "hsClasses": ["Hunter"],
+            "src": "https://i.imgur.com/OGCDiTV.png",
+            "set": 0,
+            "keywords": ["https://i.imgur.com/OGCDiTV.png"],
+            "flavour": "Wildberries can really help to calm the palate after eating your umpteenth dried caterpillar cocoon for breakfast."
+        },
+          "hsClasses": ["Hunter"],
+            "src": "https://i.imgur.com/7lB6EjC.png",
+            "set": 0,
+            "keywords": ["https://i.imgur.com/TtZmJds.png"], ["https://i.imgur.com/ls59YdF.png"]
+            "flavour": "Many days passed like this. A quiet sit by the campfire, staring back at red eyes in the shadows where the light did not touch."
         },
         {
             "hsClasses": ["Hunter"],
@@ -335,6 +339,19 @@
             "hsClasses": ["Hunter"],
             "src": "https://i.imgur.com/UtLgLUr.png",
             "set": 1
+        },
+        {
+            "hsClasses": ["Hunter"],
+            "src": "https://i.imgur.com/bBLqnRF.png",
+            "set": 0,
+     "keywords": ["https://i.imgur.com/dLTlVOR.png"],
+     "flavor": "I would have asked why a gorilla-manned eatery was lying in the middle of Stanglethorn, but at that point I was just happy we didn't need to catch something to eat anymore."
+        },
+        {
+            "hsClasses": ["Hunter"],
+            "src": "https://i.imgur.com/GnGrl3R.png",
+            "set": 0,
+     "flavor": "Wild Boarhowl. Tender yet crispy, melted in your mouth."
         },
         {
             "hsClasses": ["Hunter"],
