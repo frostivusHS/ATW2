@@ -473,11 +473,22 @@
         },
         {
             "hsClasses": ["Mage"],
+            "src": "https://i.imgur.com/arhCOcQ.png",
+            "set": 0,
+            "keywords": ["https://i.imgur.com/dLTlVOR.png"],
+            "flavor": "A fruity tang lingered on my tastebuds, sizzling and popping."
+        },
+        {
+            "hsClasses": ["Mage"],
             "src": "https://i.imgur.com/n21nkgl.png",
             "set": 1
         },
-
-
+        {
+            "hsClasses": ["Mage"],
+            "src": "https://i.imgur.com/xM2gIqu.png",
+            "set": 0,
+            "flavor": "In the menu, it claims it's 'electrolyte homeostasis' that provides the refreshing effect.\n\"By now, I'm sure you know that's just another word for 'magic'.."
+        },
         {
             "hsClasses": ["Mage"],
             "src": "https://i.imgur.com/70ySz6a.png",
@@ -487,6 +498,12 @@
             "hsClasses": ["Mage"],
             "src": "https://i.imgur.com/GlmIpgh.png",
             "set": 1
+        },
+        {
+            "hsClasses": ["Mage"],
+            "src": "https://i.imgur.com/Iq9NBw3.png",
+            "set": 0,
+            "flavor": "The amount of heat control needed to burn the cream just right before it scorches is a level of mastery nothing short of a dragon can achieve. Just our luck, then, that dragons really enjoy doing it."
         },
         {
             "hsClasses": ["Mage"],
