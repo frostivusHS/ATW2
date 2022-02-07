@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Set Displayer</title>
+    <link rel="stylesheet" href="style/menu.css">
+    <link rel="stylesheet" href="style/style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+
+    <div id="cardDetailsScreens" style="display: none;">
+        <table id="detailsTable">
+            <tr>
+                <th>
+                    <img id="showcasedCard" src="https://i.imgur.com/fBXEhdK.png">
+                </th>
+                <th>
+                    <div id="showcasedInfo">
+                        <p1><i>Extra Card Details:</i></p1> <br>
+
+                        <p2>Tokens: </p2> <br>
+
+                        <p2>Keywords: </p2> <br>
+                    </div>
+                </th>
+            </tr>
+        </table>
+    </div>
+
+    <div id="filterScreen">
+        <div id="filterScreenWrapper">
+            <div class="dropdown">
+                <button onclick="showClassDropdown()" class="dropbtn" id="class_dropbtn">Cards: All</button>
+                <div id="class_dropdown" class="dropdown-content"></div>
+            </div>
+
+            <button class="setbutton" id="buttonset1">Around the World in 80 Meals I</button>
+            <button class="setbutton" id="buttonset2">Around the World in 80 Meals II</button>
+        </div>
+    </div>
+
+    <div id="gallery">The Gallery Should Be Here</div>
+    <script src="javascript/card.js"></script>
+    <script src="javascript/cardgallery.js" ></script>
+    <script src="javascript/menu.js"></script>
+    <script src="javascript/showcased.js"></script>
+</body>
+</html>

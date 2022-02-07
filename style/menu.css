@@ -1,0 +1,85 @@
+.dropbtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    display:inline-block;
+}
+  
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+}
+  
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+  
+.dropdown-content .dropoption {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+  
+.dropdown .dropoption:hover {
+    background-color: #ddd;}
+  
+.show {
+    display: block;
+}
+
+#filterScreen {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    width: calc(100% - 20px);
+    z-index: 100;
+    background-color: white;
+    padding: 10px;
+}
+
+#filterScreenWrapper {
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0%)
+}
+
+.setbutton {
+    background-color: rgb(6, 175, 6);
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+}
+.setbutton:hover {
+    background-color: rgb(80, 184, 80);
+}
+.setbutton:active {
+    background-color: rgb(6, 128, 6);
+}
+
+.setbuttontoggled {
+    background-color: rgb(175, 6, 6);
+}
+.setbuttontoggled:hover {
+    background-color: rgb(177, 76, 76);
+}
+.setbuttontoggled:active {
+    background-color: rgb(129, 11, 11);
+}
