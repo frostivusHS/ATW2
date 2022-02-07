@@ -121,6 +121,6 @@ function loadFromFile(url) {
 //            new Card(["Druid"], "./images/common.png", 0)];
 // createGallery(document.getElementById("gallery"), arr);
 
-loadFromFile("../cards.json");
+loadFromFile("./cards.json");
 
 //setTimeout(showClass(document.getElementById("test"), "Priest"), 100);
