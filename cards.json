@@ -597,8 +597,26 @@
         },
         {
             "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/MxTKN43.png",
+            "set": 0,
+            "flavor": "The Goldshire faeries have served as housekeepers for the Songshine family for generations. They perform their tasks -- even ones as simple as spreading toast -- with a single-minded focus."
+        },
+        {
+            "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/uHK8HRF.png",
+            "set": 0,
+            "flavor": "'It's not about if your neighbors have more. It's about if they have enough.' ~An old Goldshire proverb"
+        },
+        {
+            "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/UVRGAXA.png",
             "set": 1
+        },
+        {
+            "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/mUaJp7B.png",
+            "set": 0,
+            "flavor": "Humility; it's the one virtue you can't really brag about."
         },
         {
             "hsClasses": ["Paladin"],
@@ -607,15 +625,26 @@
         },
         {
             "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/x3rrZg6.png",
+            "set": 0,
+            "flavor": "She tossed a loaf my way. The fresh crunch of its crust as I dug my hands into it was like music to my ears.\n\"Hot off the oven. Everybody gets one free as a welcome gift.\n\"I could get used to this."
+        },
+        {
+            "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/KkRs4rz.png",
             "set": 1
         },
-
-
         {
             "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/D38uZFI.png",
             "set": 1
+        },
+        {
+            "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/7uouJtn.png",
+            "keywords": ["https://i.imgur.com/dLTlVOR.png"],
+            "set": 0,
+            "flavor": "It singed all the way down my throat, blossoming in my gut and setting my veins aflame with an old, forgotten fire, rekindled."
         },
         {
             "hsClasses": ["Paladin"],
@@ -629,8 +658,28 @@
         },
         {
             "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/4yD2gln.png",
+            "set": 0,
+            "flavor": "I'm ashamed to say I took advantage of their generosity often."
+        },
+        {
+            "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/HPjC2ec.png",
             "set": 1
+        },
+        {
+            "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/oKPY84v.png",
+            "keywords": ["https://i.imgur.com/dLTlVOR.png"],
+            "set": 0,
+            "tokens": ["https://i.imgur.com/pFawSQJ.png"],
+            "flavor": "Young talent is nurtured early here, with lots of leeway for experimenting."
+        },
+        {
+            "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/657T6Mu.png",
+            "set": 0,
+            "flavor": "With feigned casualness, I asked them if they did second dinner as well.\n\"The faeries replied with a wistful sigh of 'if only'."
         },
         {
             "hsClasses": ["Paladin"],
