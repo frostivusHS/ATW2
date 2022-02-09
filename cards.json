@@ -620,14 +620,14 @@
         },
         {
             "hsClasses": ["Paladin"],
-            "src": "https://i.imgur.com/wKbQFwC.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/x3rrZg6.png",
             "set": 0,
             "flavor": "She tossed a loaf my way. The fresh crunch of its crust as I dug my hands into it was like music to my ears.\n\"Hot off the oven. Everybody gets one free as a welcome gift.\n\"I could get used to this."
+        },
+        {
+            "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/wKbQFwC.png",
+            "set": 1
         },
         {
             "hsClasses": ["Paladin"],
@@ -664,16 +664,16 @@
         },
         {
             "hsClasses": ["Paladin"],
-            "src": "https://i.imgur.com/HPjC2ec.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/oKPY84v.png",
             "keywords": ["https://i.imgur.com/dLTlVOR.png"],
             "set": 0,
             "tokens": ["https://i.imgur.com/pFawSQJ.png"],
             "flavor": "Young talent is nurtured early here, with lots of leeway for experimenting."
+        },
+        {
+            "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/HPjC2ec.png",
+            "set": 1
         },
         {
             "hsClasses": ["Paladin"],
@@ -686,13 +686,18 @@
             "src": "https://i.imgur.com/9xxGHrD.png",
             "set": 1
         },
-
-
+        {
+            "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/35KjoUw.png",
+            "set": 0,
+            "flavor": "There was no doubt from its weight and glisten: that egg was solid gold. What piqued my curiosity more was the glimpses of the creature that was slowly hatching from it."
+        },
         {
             "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/8VJDh1B.png",
             "set": 1
         },
+        
         {
             "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/ocHjd25.png",
@@ -708,12 +713,22 @@
             "src": "https://i.imgur.com/bJvuauq.png",
             "set": 1
         },
-
-
+        {
+            "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/mEz6W7S.png",
+            "set": 0,
+            "flavor": "She limped across the field with the rest of the children, bug-catching and shortbread her only immediate concerns in life.\n\"You never would have guessed her to be the next scion in line to inherit a powerful dynasty spanning centuries."
+        },
         {
             "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/bdZipsu.png",
             "set": 1
+        },
+        {
+            "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/lUxgLsl.png",
+            "set": 0,
+            "flavor": "Holy cow! was my first thought.\n\"Then -- It's a holy cow!"
         },
         {
             "hsClasses": ["Paladin"],
