@@ -771,31 +771,57 @@
         },
         {
             "hsClasses": ["Priest"],
+            "name": "Shadow Word: Flambe",
             "src": "https://i.imgur.com/CHYC6nt.png",
             "set": 0,
             "flavor": "The idea is to burn off the unwanted strength of the alcohol while still keeping some flavor of the liquor.\n\"It's a hard to balance to get right, but of course in Le Prêtre, they would have abided by no lower standard."
         },
         {
             "hsClasses": ["Priest"],
+            "name": "Shadow Word: Saute",
             "src": "https://i.imgur.com/laun1hk.png",
             "set": 1
         },
         {
             "hsClasses": ["Priest"],
+            "name": "Silvermoon Baker",
             "src": "https://i.imgur.com/1UJaWga.png",
+            "cost": 6,
+            "type": "minion",
+            "rarity": "common",
             "set": 1
         },
         {
             "hsClasses": ["Priest"],
+            "name": "Lemon Tart",
             "src": "https://i.imgur.com/jFhPHfR.png",
+            "type": "minion",
+            "rarity": "common",
             "set": 1
         },
-
-
         {
             "hsClasses": ["Priest"],
+            "name": "Gravy Spread",
             "src": "https://i.imgur.com/nxlYT85.png",
+            "type": "spell",
+            "rarity": "rare",
             "set": 1
+        },
+        {
+            "hsClasses": ["Priest"],
+            "name": "Elune's Truffles",
+            "src": "https://i.imgur.com/CHYC6nt.png",
+            "set": 0,
+            "flavor": "Truffles are a fungus used in virtually all of haute cuisine, and lauded for its immense versatility. There are many kinds, such as the aptly-named white and black truffles.\n\"For some odd reason or another, I kept associating them with pigs.."
+        },
+        {
+            "hsClasses": ["Priest"],
+            "name": "Quatre Epices",
+            "src": "https://i.imgur.com/AS6lnVp.png",
+            "type": "spell",
+            "rarity": "rare",
+            "set": 0,
+            "flavor": "The overpowering fragrance of the allspice, another ubiquitous element of Le Prêtre's cooking."
         },
         {
             "hsClasses": ["Priest"],
