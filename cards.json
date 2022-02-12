@@ -938,7 +938,7 @@
             "type": "minion",
             "rarity": "legendary",
             "set": 0,
-            "tokens": "[https://i.imgur.com/CC2y1FX.png]",
+            "tokens": ["https://i.imgur.com/CC2y1FX.png"],
             "flavor": "Being a bartender is equal parts charm, equal parts mixing.\n\"Talan makes a heavenly cocktail, but I wouldn't mind being called mademoiselle every now and then."
         },
         {
@@ -1047,68 +1047,162 @@
         },
         {
             "hsClasses": ["Rogue"],
-            "src": "https://i.imgur.com/uBCAlLv.png",
+            "name": "Ground Mace Spice",
+            "src": "https://i.imgur.com/kGkOlGa.png",
+            "type": "spell",
+            "rarity": "rare",
+            "set": 0,
+            "flavor": "A pair of cutthroats in the corner of the tavern had been lathering their daggers with it.\n\"I don't think this was meant to be drunk."
+        },
+        {
+            "hsClasses": ["Rogue"],
+            "name": "Blackjack",
+            "src": "https://i.imgur.com/gEG8AMH.png",
+            "type": "spell",
+            "rarity": "rare",
+            "set": 0,
+            "flavor": "What's dinner without a show?"
+        },
+        {
+            "hsClasses": ["Rogue"],
+            "name": "Gilnean Barmaid",
+            "src": "https://i.imgur.com/KLyEvAz.png",
+            "type": "minion",
+            "rarity": "rare",
+            "set": 0,
+            "flavor": "Dad, I'm sorry I didn't listen to you and took free drinks from a stranger."
+        },
+        {
+            "hsClasses": ["Rogue"],
+            "name": "That's Not Ketchup",
+            "src": "https://i.imgur.com/7sLbTLb.png",
+            "type": "spell",
+            "rarity": "rare",
             "set": 1
         },
         {
             "hsClasses": ["Rogue"],
+            "name": "Turkey Carve",
             "src": "https://i.imgur.com/9nlIBOu.png",
+            "type": "spell",
+            "rarity": "rare",
             "set": 1
         },
         {
             "hsClasses": ["Rogue"],
+            "name": "Sacred Spatula",
             "src": "https://i.imgur.com/sw8qJyZ.png",
+            "type": "weapon",
+            "rarity": "rare",
             "set": 1
         },
         {
             "hsClasses": ["Rogue"],
+            "name": "Draksescale Cutter",
             "src": "https://i.imgur.com/TqWVWXU.png",
+            "type": "weapon",
+            "rarity": "rare",
             "set": 1
         },
-        
         {
             "hsClasses": ["Rogue"],
+            "name": "Roller Diner Waitress",
             "src": "https://i.imgur.com/qppwsps.png",
+            "type": "minion",
+            "rarity": "rare",
             "set": 1
         },
-
-
         {
             "hsClasses": ["Rogue"],
+            "name": "Club Member",
             "src": "https://i.imgur.com/cmtbr3t.png",
+            "type": "minion",
+            "rarity": "epic",
             "set": 1
         },
         {
             "hsClasses": ["Rogue"],
+            "name": "Junk Food Cravings",
             "src": "https://i.imgur.com/9GUTfom.png",
+            "type": "spell",
+            "rarity": "epic",
             "set": 1
         },
         {
             "hsClasses": ["Rogue"],
+            "name": "Trip",
+            "src": "https://i.imgur.com/TPcKQjW.png",
+            "type": "spell",
+            "rarity": "epic",
+            "set": 0,
+            "flavor": "I wasn't too sure what I was mumbling then. Something about vegetables? And bathing reptiles?"
+        },
+        {
+            "hsClasses": ["Rogue"],
+            "name": "Gilnean Spikedrinker",
+            "src": "https://i.imgur.com/ADHOi0g.png",
+            "type": "minion",
+            "rarity": "epic",
+            "set": 0,
+            "flavor": "Tip for future trips: Gilneas is *not* a place for tourists."
+        },
+        {
+            "hsClasses": ["Rogue"],
+            "name": "Order Mix-Up",
             "src": "https://i.imgur.com/8ApRQ9R.png",
+            "type": "spell",
+            "rarity": "epic",
             "set": 1
         },
         {
             "hsClasses": ["Rogue"],
+            "name": "Barrrbeque",
             "src": "https://i.imgur.com/eltvRZm.png",
-            "set": 1
-        },
-
-
-        {
-            "hsClasses": ["Rogue"],
-            "src": "https://i.imgur.com/UejS63L.png",
+            "type": "spell",
+            "rarity": "epic",
             "set": 1
         },
         {
             "hsClasses": ["Rogue"],
-            "src": "https://i.imgur.com/ypbGtyP.png",
+            "name": "Deal With McDevil",
+            "src": "https://i.imgur.com/DoUfScC.png",
+            "type": "spell",
+            "rarity": "legendary",
             "set": 1
         },
         {
             "hsClasses": ["Rogue"],
-            "src": "https://i.imgur.com/kD6Qsiv.png",
-            "set": 1
+            "name": "Captain Cookie",
+            "src": "https://i.imgur.com/ABcAjBW.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 0,
+            "flavor": "His meat was rough and undercooked. His vegetables were rotten. It tasted like dirt.\n\"But it was the first real food I've eaten in this establishment."
+        },
+        {
+            "hsClasses": ["Rogue"],
+            "name": "Professor Fermentor",
+            "src": "https://i.imgur.com/WjBXqOT.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 1       
+        },
+        {
+            "hsClasses": ["Rogue"],
+            "name": "Captain Crunch",
+            "src": "https://i.imgur.com/YzDAWgy.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 1       
+        },
+        {
+            "hsClasses": ["Rogue"],
+            "name": "Grand Snatcher Hessnia",
+            "src": "https://i.imgur.com/ABcAjBW.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 0,
+            "flavor": "I had pieced it together by then. The quotation marks appending every food name. The bottom-table deals. The bosomed actresses prying your eyes away from it all.\n\"The Swinging Cutlass wasn't all what it seemed, this much even the most tight-lipped local would have told me.\n\"'We don't even bother to whisper -- we know she's listening,'they said in between drunken hiccups,'Leave a gap in the window blinds and if you're lucky, you might even catch a glimpse of her. The Swinging Cutlass is hers. And she takes what she wants from it.'\n\"I think I was lucky to have escaped alive that night. Or maybe the Grand Snatcher just allowed me to."
         }
     ],
 
