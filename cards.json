@@ -718,11 +718,6 @@
         },
         {
             "hsClasses": ["Paladin"],
-            "src": "https://i.imgur.com/dskKX2n.png",
-            "set": 1
-        }
-        {
-            "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/bdZipsu.png",
             "set": 1
         },
@@ -735,6 +730,11 @@
         {
             "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/q2ceGqE.png",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/xZqDvrr.png",
             "set": 1
         }
     ],
