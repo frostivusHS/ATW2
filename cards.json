@@ -584,6 +584,12 @@
     [
         {
             "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/MxTKN43.png",
+            "set": 0,
+            "flavor": "The Goldshire faeries have served as housekeepers for the Songshine family for generations. They perform their tasks -- even ones as simple as spreading toast -- with a single-minded focus."
+        },
+        {
+            "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/5gg6oep.png",
             "set": 1
         },
@@ -592,12 +598,6 @@
             "src": "https://i.imgur.com/e2kaF1g.png",
             "set": 1,
             "keywords": ["https://i.imgur.com/Pfy2FNc.png"]
-        },
-        {
-            "hsClasses": ["Paladin"],
-            "src": "https://i.imgur.com/MxTKN43.png",
-            "set": 0,
-            "flavor": "The Goldshire faeries have served as housekeepers for the Songshine family for generations. They perform their tasks -- even ones as simple as spreading toast -- with a single-minded focus."
         },
         {
             "hsClasses": ["Paladin"],
@@ -718,6 +718,11 @@
         },
         {
             "hsClasses": ["Paladin"],
+            "src": "https://i.imgur.com/dskKX2n.png",
+            "set": 1
+        }
+        {
+            "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/bdZipsu.png",
             "set": 1
         },
@@ -730,11 +735,6 @@
         {
             "hsClasses": ["Paladin"],
             "src": "https://i.imgur.com/q2ceGqE.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Paladin"],
-            "src": "https://i.imgur.com/FwWTDSs.png",
             "set": 1
         }
     ],
