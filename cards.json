@@ -933,6 +933,25 @@
         },
         {
             "hsClasses": ["Priest"],
+            "name": "Talan",
+            "src": "https://i.imgur.com/zgdzk9v.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 0,
+            "tokens": "[https://i.imgur.com/CC2y1FX.png]",
+            "flavor": "Being a bartender is equal parts charm, equal parts mixing.\n\"Talan makes a heavenly cocktail, but I wouldn't mind being called mademoiselle every now and then."
+        },
+        {
+            "hsClasses": ["Priest"],
+            "name":"Supreme Chef Careme",
+            "src": "https://i.imgur.com/cA3kSe6.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 0,
+           "flavor": "'Attention, kitchen brigade! Please welcome our newest kitchen porter. She will be joining us this week as part of a promotion campaign from Cooking with Brode. Work her hard! Teach her the precision of Careme's Kitchen Brigade!\n\"~NB: Communard Festard, she is allergic to nuts. Please prepare a nut-free meal regime for her this week.'"
+        },
+        {
+            "hsClasses": ["Priest"],
             "name": "Madame Aerila",
             "src": "https://i.imgur.com/90sDQsY.png",
             "type": "minion",
