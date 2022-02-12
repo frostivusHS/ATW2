@@ -478,11 +478,6 @@
         },
         {
             "hsClasses": ["Mage"],
-            "src": "https://i.imgur.com/ozXIe09.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Mage"],
             "src": "https://i.imgur.com/70ySz6a.png",
             "set": 1
         },
@@ -559,11 +554,6 @@
         },
         {
             "hsClasses": ["Mage"],
-            "src": "https://i.imgur.com/znW9klR.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Mage"],
             "src": "https://i.imgur.com/vRVHMel.png",
             "set": 1
         },
@@ -572,6 +562,11 @@
             "src": "https://i.imgur.com/9U1eWLW.png",
             "set": 0,
             "flavor": "Uppity, eccentric, tearing her customers apart with profanities that would make even my little brother blush.\n\"She really is as the TV show portrayed."
+        },
+        {
+            "hsClasses": ["Mage"],
+            "src": "https://i.imgur.com/V4J8Ssv.png",
+            "set": 1
         },
         {
             "hsClasses": ["Mage"],
