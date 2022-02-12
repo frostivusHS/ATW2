@@ -1144,7 +1144,7 @@
             "type": "minion",
             "rarity": "epic",
             "set": 0,
-            "flavor": "Tip for future trips: Gilneas is *not* a place for tourists."
+            "flavor": "Tip for future trips: Gilneas is not a place for tourists."
         },
         {
             "hsClasses": ["Rogue"],
@@ -1205,7 +1205,6 @@
             "flavor": "I had pieced it together by then. The quotation marks appending every food name. The bottom-table deals. The bosomed actresses prying your eyes away from it all.\n\"The Swinging Cutlass wasn't all what it seemed, this much even the most tight-lipped local would have told me.\n\"'We don't even bother to whisper -- we know she's listening,'they said in between drunken hiccups,'Leave a gap in the window blinds and if you're lucky, you might even catch a glimpse of her. The Swinging Cutlass is hers. And she takes what she wants from it.'\n\"I think I was lucky to have escaped alive that night. Or maybe the Grand Snatcher just allowed me to."
         }
     ],
-
     [
         {
             "hsClasses": ["Shaman"],
