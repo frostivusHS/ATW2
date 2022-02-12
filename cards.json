@@ -450,13 +450,19 @@
         },
         {
             "hsClasses": ["Mage"],
+            "src": "https://i.imgur.com/HhW9XvG.png",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Mage"],
             "src": "https://i.imgur.com/nJzBf1h.png",
             "set": 1
         },
         {
             "hsClasses": ["Mage"],
             "src": "https://i.imgur.com/3S6RJvr.png",
-            "set": 0
+            "set": 0,
+            "flavor": "Arcane-prepared soup! It tasted . . . . a lot like regular-prepared soup, actually."
         },
         {
             "hsClasses": ["Mage"],
@@ -467,7 +473,7 @@
         },
         {
             "hsClasses": ["Mage"],
-            "src": "https://i.imgur.com/zMYVydG.png",
+            "src": "https://i.imgur.com/ozXIe09.png",
             "set": 1
         },
         {
@@ -488,7 +494,7 @@
         },
         {
             "hsClasses": ["Mage"],
-            "src": "https://i.imgur.com/GlmIpgh.png",
+            "src": "https://i.imgur.com/prvLLE6.png",
             "set": 1
         },
         {
@@ -516,7 +522,7 @@
         },
         {
             "hsClasses": ["Mage"],
-            "src": "https://i.imgur.com/v9tP44L.png",
+            "src": "https://i.imgur.com/v9tP44L.png ",
             "set": 1
         },
         {
@@ -527,7 +533,7 @@
         },
         {
             "hsClasses": ["Mage"],
-            "src": "https://i.imgur.com/5tp1qAx.png",
+            "src": "https://i.imgur.com/aBVNU0v.png",
             "set": 1
         },
         {
