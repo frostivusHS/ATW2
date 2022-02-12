@@ -809,7 +809,7 @@
         {
             "hsClasses": ["Priest"],
             "name": "Elune's Truffles",
-            "src": "https://i.imgur.com/CHYC6nt.png",
+            "src": "https://i.imgur.com/8AE5oRF.png",
             "set": 0,
             "flavor": "Truffles are a fungus used in virtually all of haute cuisine, and lauded for its immense versatility. There are many kinds, such as the aptly-named white and black truffles.\n\"For some odd reason or another, I kept associating them with pigs.."
         },
@@ -824,63 +824,127 @@
         },
         {
             "hsClasses": ["Priest"],
+            "name": "Power Word: Imbibe",
             "src": "https://i.imgur.com/GatZZW3.png",
+            "type": "spell",
+            "rarity": "rare",
             "set": 1,
             "keywords": ["https://i.imgur.com/Pfy2FNc.png"]
         },
         {
             "hsClasses": ["Priest"],
-            "src": "https://i.imgur.com/cYrOvHC.png",
+            "name": "Box of Chocolates",
+            "src": "https://i.imgur.com/bkPBNBZ.png",
+            "type": "spell",
+            "rarity": "rare",
+            "set": 0,
+            "tokens": ["https://i.imgur.com/BJ5isrt.png", "https://i.imgur.com/Xwit5wP.png", "https://i.imgur.com/MuRixYG.png", "https://i.imgur.com/h9nl8Jb.png"],
+            "flavor": "No purer bliss than a girl with her chocolates."
+        },
+        {
+            "hsClasses": ["Priest"],
+            "name": "Banquet of Kings",
+            "src": "https://i.imgur.com/AXw6fkb.png",
+            "type": "spell",
+            "rarity": "rare",
             "set": 1
         },
         {
             "hsClasses": ["Priest"],
+            "name": "Eclairvoyant",
             "src": "https://i.imgur.com/8DljHl6.png",
             "set": 1
         },
         {
             "hsClasses": ["Priest"],
+            "name":"Gingerdread Cookies",
             "src": "https://i.imgur.com/ha2D8hH.png",
+            "type": "spell",
+            "rarity": "rare",
             "set": 1,
             "keywords": ["https://i.imgur.com/Pfy2FNc.png"]
         },
-
-
         {
             "hsClasses": ["Priest"],
+            "name": "Bite The Hand That Feeds",
             "src": "https://i.imgur.com/eP8k42S.png",
+            "type": "spell",
+            "rarity": "epic",
             "set": 1
         },
         {
             "hsClasses": ["Priest"],
+            "name": "Fine Dining",
+            "src": "https://i.imgur.com/NcgPtfE.png",
+            "type": "spell",
+            "rarity": "epic",
+            "set": 0,
+            "flavor": "We tapped our wineglasses together with a satisfying clink, chortling at the rubes and faux pas staring wistfully through the window.\n\"I hate to admit it, but it felt good."
+        },
+        {
+            "hsClasses": ["Priest"],
+            "name": "High Tea Connoiseur",
             "src": "https://i.imgur.com/sdBu2oK.png",
+            "type": "minion",
+            "rarity": "epic",
             "set": 1
         },
         {
             "hsClasses": ["Priest"],
+            "name": "Et Voila!",
+            "src": "https://i.imgur.com/AT1B7cR.png",
+            "type": "spell",
+            "rarity": "epic",
+            "set": 0,
+            "flavor": "The smallest dishes often came packed with the richest contents, as I soon came to find out. My ill-concealed disappointment turned into wonder the moment I popped the pastry into my mouth.\n\"The chef in turn did little to hide his smugness."
+        },
+        {
+            "hsClasses": ["Priest"],
+            "name": "Grumpty Dumpty",
             "src": "https://i.imgur.com/Kx2Tf2L.png",
+            "type": "minion",
+            "rarity": "epic",
             "set": 1
         },
         {
             "hsClasses": ["Priest"],
+            "name": "Cooking With Careme",
+            "src": "https://i.imgur.com/tPJoDLZ.png",
+            "type": "spell",
+            "rarity": "epic",
+            "set": 0,
+            "flavor": "So I know what you're thinking: wow, how lucky I was to cook with the Supreme Chef!\n\"The truth was that I may have gone a bit over-budget with the dinner and thus had to work the debt off."
+        },
+        {
+            "hsClasses": ["Priest"],
+            "name": "Dame de la Creme",
             "src": "https://i.imgur.com/HHqk9Kk.png",
+            "type": "minion",
+            "rarity": "epic",
             "set": 1
         },
-
-
         {
             "hsClasses": ["Priest"],
+            "name":"Patissier Parfaite",
             "src": "https://i.imgur.com/C6co3ZF.png",
+            "type": "minion",
+            "rarity": "legendary",
             "set": 1
         },
         {
             "hsClasses": ["Priest"],
+            "name": "Madame Aerila",
             "src": "https://i.imgur.com/90sDQsY.png",
+            "type": "minion",
+            "rarity": "legendary",
             "set": 1
         },
         {
             "hsClasses": ["Priest"],
+            "name": "Asparagos",
             "src": "https://i.imgur.com/7UDqVgW.png",
+            "type": "minion",
+            "rarity": "legendary",
             "set": 1
         }
     ],
