@@ -971,31 +971,80 @@
     [
         {
             "hsClasses": ["Rogue"],
+            "name": "Thick Glorp",
+            "src": "https://i.imgur.com/sGlsJLx.png",
+            "type": "minion",
+            "rarity": "common",
+            "set": 0,
+            "flavor": "I  gulped them down one by one, until the cacophony of screams, breaking glass and drum-shots blurred away into background noise."
+        },
+        {
+            "hsClasses": ["Rogue"],
+            "name": "Head Waiter",
+            "src": "https://i.imgur.com/tscdKbq.png",
+            "type": "minion",
+            "rarity": "common",
+            "set": 0,
+            "flavor": "Undead made for cheap labour, so the sight of their festering limbs in my soup was regretfully pretty common."
+        },
+        {
+            "hsClasses": ["Rogue"],
+            "name": "Gruel Lunch Lady",
+            "src": "https://i.imgur.com/sI6sWDg.png",
+            "type": "minion",
+            "rarity": "common",
+            "set": 0,
+            "flavor": "The pot's strewn contents ate away at the plywood floor. And my metal spoon. And the jawbone of the undead gentleman next to me."
+        },
+        {
+            "hsClasses": ["Rogue"],
+            "name": "Happy Meal Surprise",
             "src": "https://i.imgur.com/z0svnyk.png",
+            "type": "spell",
+            "rarity": "common",
             "set": 1
         },
         {
             "hsClasses": ["Rogue"],
+            "name": "Venom Saucier",
             "src": "https://i.imgur.com/IqU9ZDF.png",
+            "type": "minion",
+            "rarity": "common",
             "set": 1
         },
         {
             "hsClasses": ["Rogue"],
+            "name": "On Time Or It's Free!",
             "src": "https://i.imgur.com/RPq3xv6.png",
+            "type": "spell",
+            "rarity": "common",
             "set": 1
         },
         {
             "hsClasses": ["Rogue"],
+            "name": "Spice Trade",
+            "src": "https://i.imgur.com/2ENz4X1.png",
+            "type": "spell",
+            "rarity": "common",
+            "set": 0,
+            "flavor": "I'm not sure just exactly what kind of spice they were selling, but I know at the very least they were not supposed to fetch a street price in the triple digits per gram.\n\"I smelled a rat, and it wasn't that god awful broth that lunch lady was making."
+        },
+        {
+            "hsClasses": ["Rogue"],
+            "name": "Hamburglar",
             "src": "https://i.imgur.com/ROBa5p0.png",
+            "type": "minion",
+            "rarity": "common",
             "set": 1
         },
         {
             "hsClasses": ["Rogue"],
+            "name": "Big Mac",
             "src": "https://i.imgur.com/FM0yBb0.png",
+            "type": "minion",
+            "rarity": "common",
             "set": 1
         },
-
-
         {
             "hsClasses": ["Rogue"],
             "src": "https://i.imgur.com/uBCAlLv.png",
