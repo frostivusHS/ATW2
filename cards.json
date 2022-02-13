@@ -81,12 +81,12 @@
         },
         {
             "hsClasses": ["Dunter"],
-            "src": "https://i.imgur.com/Fv5rvZQ.png",
+            "src": "https://i.imgur.com/i28cgjj.png",
             "set": 1
         },
         {
             "hsClasses": ["Dunter"],
-            "src": "https://i.imgur.com/i28cgjj.png",
+            "src": "https://i.imgur.com/uBfiOZ5.png",
             "set": 1
         }
     ],
@@ -1508,7 +1508,7 @@
         {
             "hsClasses": ["Warlock"],
             "name": "Turn Into Soup",
-            "src": "https://i.imgur.com/Sp9pUaF.png",
+            "src": "https://i.imgur.com/I9OybNz.png",
             "type": "spell",
             "rarity": "common",
             "set": 0,
@@ -1676,7 +1676,7 @@
             "rarity": "legendary",
             "set": 0,
             "flavor": "Flavorlord,  She Who Is Never Almost Out of Thyme.",
-            "tokens": "[https://i.imgur.com/6wFkfJH.png]"
+            "tokens": ["https://i.imgur.com/6wFkfJH.png"]
         }
     ],
 
@@ -1768,7 +1768,7 @@
             "rarity": "rare",
             "set": 0,
             "flavor": "It was stinging; overpowering even, like a brazen assault on all of my tastebuds.",
-            "keywords": "For someone without opposable thumbs, they were surprisingly dextrous at holding the cooking utensils."
+            "keywords": "[https://i.imgur.com/OGCDiTV.png]"
         },
         {
             "hsClasses": ["Warrior"],
@@ -1894,14 +1894,6 @@
             "rarity": "legendary",
             "set": 0,
             "flavor": "He diced the meat in a flurry of oft-practiced motion. Economical, but purposeful. All perfectly cut in equal sizes."
-        },
-        {
-            "hsClasses": ["Warrior"],
-            "name": "Nomi, Emperor's Feast",
-            "src": "https://i.imgur.com/N9OlyiH.png",
-            "type": "minion",
-            "rarity": "legendary",
-            "set": 1
         },
         {
             "hsClasses": ["Warrior"],
@@ -2040,11 +2032,6 @@
         },
         {
             "hsClasses": ["Neutral"],
-            "src": "https://i.imgur.com/nGHJhDu.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Neutral"],
             "src": "https://i.imgur.com/qLksp8m.png",
             "set": 1
         },
@@ -2099,8 +2086,13 @@
 
         {
             "hsClasses": ["Neutral"],
-            "src": "https://i.imgur.com/OSAKziM.png",
-            "set": 1
+            "name": "Aletta Springcutter",
+            "src": "https://i.imgur.com/pOLC5ia.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 0,
+            "token": ["https://i.imgur.com/qyZHydu.png"],
+            "flavor": "Dad must have sneaked in a picture of me when I was distracted. He's a goofball, but I have to say it actually came out pretty nicely."
         },
         {
             "hsClasses": ["Neutral"],
@@ -2109,8 +2101,28 @@
         },
         {
             "hsClasses": ["Neutral"],
+            "name": "Aletta, Back On The Road",
             "src": "https://i.imgur.com/aFw1VeI.png",
+            "type": "minion",
+            "rarity": "legendary",
             "set": 1
+        },
+        {
+            "hsClasses": ["Neutral"],
+            "name": "World-Traveller Pepe",
+            "src": "https://i.imgur.com/78kZuZC.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Neutral"],
+            "name": "Krita Gruelteeth",
+            "src": "https://i.imgur.com/IWwPkKp.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 1,
+            "keywords": ["https://i.imgur.com/Pfy2FNc.png"]
         },
         {
             "hsClasses": ["Neutral"],
@@ -2126,6 +2138,15 @@
             "hsClasses": ["Neutral"],
             "src": "https://i.imgur.com/SbPfOzO.png",
             "set": 1
+        },
+        {
+            "hsClasses": ["Neutral"],
+            "name": "Ben Brode",
+            "src": "https://i.imgur.com/kwL2Y6M.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 0,
+            "flavor": "Thanks, Ben.\n\"I travelled the world, made new friends, and became a better person because of you.\n\"Wherever you're off to next, may you inspire them as much as you've done for me.\n\"And that's it for me. To everyone out there reading my travelogue, best wishes for your journeys, whatever they may be."
         },
         {
             "hsClasses": ["Neutral"],
