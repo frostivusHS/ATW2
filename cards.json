@@ -2127,7 +2127,18 @@
         },
         {
             "hsClasses": ["Neutral"],
+            "name": "Catch of the Day",
             "src": "https://i.imgur.com/T0fS5vp.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Neutral"],
+            "name": "Cookie McWeaksauce",
+            "src": "https://i.imgur.com/E6UGgji.png",
+            "type": "minion",
+            "rarity": "legendary",
             "set": 1
         },
         {
