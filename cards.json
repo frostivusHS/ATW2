@@ -1454,90 +1454,229 @@
         },
         {
             "hsClasses": ["Warlock"],
+            "name": "Funnel Cake Cook",
+            "src": "https://i.imgur.com/U32t01W.png",
+            "type": "minion",
+            "rarity": "common",
+            "set": 0,
+            "flavor": "Funnel cakes. The cause -- and solution -- to most of life's problems."      
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "Palate Cleanser",
             "src": "https://i.imgur.com/ZKOCjUx.png",
+            "type": "minion",
+            "rarity": "common",
             "set": 1,
             "tokens": ["https://i.imgur.com/pFawSQJ.png"]
         },
         {
             "hsClasses": ["Warlock"],
+            "name": "Burnt Stovemistress",
             "src": "https://i.imgur.com/NUwsK8E.png",
+            "type": "minion",
+            "rarity": "common",
             "set": 1
         },
         {
             "hsClasses": ["Warlock"],
+            "name": "Stovebelly",
             "src": "https://i.imgur.com/goscIo4.png",
+            "type": "minion",
+            "rarity": "common",
             "set": 1,
             "tokens": ["https://i.imgur.com/pFawSQJ.png"]
         },
-
-
         {
             "hsClasses": ["Warlock"],
+            "name": "Funnelmancer",
+            "src": "https://i.imgur.com/Sp9pUaF.png",
+            "type": "minion",
+            "rarity": "common",
+            "set": 0,
+            "flavor": "I think these guys are sentient balloons filled with funnel cake gas or something? I couldn't ask much; they popped if you tried to talk to them."      
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "Engorge",
+            "src": "https://i.imgur.com/U47xG05.png",
+            "type": "spell",
+            "rarity": "common",
+            "set": 0,
+            "flavor": "I was reassured that the victim was in fact a professional stunt actor wearing standard-issue safety gear.\n\"I mean, why would demons ever have a reason to lie to me?\n\"... They were genuinely eating that guy, weren't they?"      
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "Turn Into Soup",
+            "src": "https://i.imgur.com/Sp9pUaF.png",
+            "type": "spell",
+            "rarity": "common",
+            "set": 0,
+            "flavor": "I could taste the eyeball. Not an experience I would like to relive anytime soon."      
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "Impure Funnel Cake",
+            "src": "https://i.imgur.com/nvGskZv.png",
+            "type": "spell",
+            "rarity": "rare",
+            "set": 0,
+            "flavor": "If there's one word to describe funnel cake chefs, it would be 'neurotic'.",
+            "keywords": ["https://i.imgur.com/OGCDiTV.png"]     
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "Soupfire",
             "src": "https://i.imgur.com/3b2nQ04.png",
-            "set": 1,
-            "tokens": ["https://i.imgur.com/pFawSQJ.png"]
+            "type": "spell",
+            "rarity": "rare",
+            "set": 1
         },
         {
             "hsClasses": ["Warlock"],
+            "name": "Escaping Meal",
             "src": "https://i.imgur.com/h7RdmoM.png",
+            "type": "minion",
+            "rarity": "rare",
             "set": 1
         },
         {
             "hsClasses": ["Warlock"],
-            "src": "https://i.imgur.com/BEidbsq.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Warlock"],
+            "name": "Snacking Succubus",
             "src": "https://i.imgur.com/z3ddGoI.png",
+            "type": "minion",
+            "rarity": "rare",
             "set": 1,
             "tokens": ["https://i.imgur.com/pFawSQJ.png"]
         },
         {
             "hsClasses": ["Warlock"],
+            "name": "Demonade Seller",
+            "src": "https://i.imgur.com/BEidbsq.png",
+            "type": "minion",
+            "rarity": "rare",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "Void Glomper",
+            "src": "https://i.imgur.com/EIjVp0a.png",
+            "type": "minion",
+            "rarity": "rare",
+            "set": 0,
+            "flavor": "Thralls of the Flavorlord , driven mad by the insatiable appetite of their master. It must be horrible to be hungry no matter how much you eat."      
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "We Have To Cook",
+            "src": "https://i.imgur.com/GHzmfhn.png",
+            "type": "spell",
+            "rarity": "rare",
+            "set": 0,
+            "flavor": "I knew what I had to do, but my hands were trembling all the same.\n\"A single drop from this would eat through my skin down to the bone.\n\"'If you could make the perfect funnel cake, you will gain the favour of the Flavorlord. And once that happens, no one in the Undercity will touch you.'"      
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "Gingerdread Cookies",
             "src": "https://i.imgur.com/uCQvGYX.png",
+            "type": "spell",
+            "rarity": "rare",
             "set": 1,
             "keywords": ["https://i.imgur.com/Pfy2FNc.png"]
         },
-
-
         {
             "hsClasses": ["Warlock"],
+            "name": "Bite The Hand That Feeds",
             "src": "https://i.imgur.com/6q1R1kZ.png",
+            "type": "spell",
+            "rarity": "epic",
             "set": 1
         },
         {
             "hsClasses": ["Warlock"],
+            "name": "Deep Fry",
+            "src": "https://i.imgur.com/IvFfge5.png",
+            "type": "spell",
+            "rarity": "epic",
+            "set": 0,
+            "flavor": "The oil they used was extracted from the gallbladder of a massive Nether Leviathan. No other substrate had a high enough evaporating point."
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "Free Samples",
             "src": "https://i.imgur.com/40CtdFL.png",
+            "type": "spell",
+            "rarity": "epic",
             "set": 1
         },
         {
             "hsClasses": ["Warlock"],
+            "name": "Imp-digestible",
             "src": "https://i.imgur.com/CH27MnH.png",
+            "type": "spell",
+            "rarity": "epic",
             "set": 1,
             "tokens": ["https://i.imgur.com/pFawSQJ.png"]
         },
         {
             "hsClasses": ["Warlock"],
+            "name": "Cannibal Gourmet",
+            "src": "https://i.imgur.com/jLYMkjr.png",
+            "type": "minion",
+            "rarity": "epic",
+            "set": 0,
+            "flavor": "Demon ichor had a certain ruddiness to them that human flesh lacked. At least, that was what I was told."
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "Shivarran Skillet",
             "src": "https://i.imgur.com/0LJlaLW.png",
-            "set": 1
-        },
-
-
-        {
-            "hsClasses": ["Warlock"],
-            "src": "https://i.imgur.com/DIDLUWq.png",
+            "type": "spell",
+            "rarity": "epic",
             "set": 1
         },
         {
             "hsClasses": ["Warlock"],
-            "src": "https://i.imgur.com/u2qrzhC.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Warlock"],
+            "name": "Madame Aerila",
             "src": "https://i.imgur.com/cTaRC6J.png",
+            "type": "minion",
+            "rarity": "legendary",
             "set": 1
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "Torenai, Soul Eater",
+            "src": "https://i.imgur.com/aUW5Xdu.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "Feronas Stewblade",
+            "src": "https://i.imgur.com/e7u5THy.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "Dimensius the All-Devouring",
+            "src": "https://i.imgur.com/nlICq3B.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 0,
+            "flavor": "I wasn't the first person to mistake Dimensius to be the almighty Flavorlord. But you could see a few of his widowed eyes twitch in the mention of that name."
+        },
+        {
+            "hsClasses": ["Warlock"],
+            "name": "Bomb Appetit",
+            "src": "https://i.imgur.com/F9itTsS.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 0,
+            "flavor": "Flavorlord,  She Who Is Never Almost Out of Thyme.",
+            "tokens": "[https://i.imgur.com/6wFkfJH.png]"
         }
     ],
 
