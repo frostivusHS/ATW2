@@ -155,11 +155,6 @@
         },
         {
             "hsClasses": ["Druid"],
-            "src": "https://i.imgur.com/GG6MSqD.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Druid"],
             "src": "https://i.imgur.com/8mCTQ1R.png",
             "set": 1,
             "keywords": ["https://i.imgur.com/Pfy2FNc.png"]
@@ -1299,11 +1294,6 @@
         },
         {
             "hsClasses": ["Shaman"],
-            "src": "https://i.imgur.com/LD1F3dX.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Shaman"],
             "name": "Tradition",
             "src": "https://i.imgur.com/S1HM9FJ.png",
             "type": "spell",
@@ -1346,16 +1336,16 @@
         },
         {
             "hsClasses": ["Shaman"],
-            "name": "Tropical Tastologist",
-            "src": "https://i.imgur.com/tpufflG.png",
+            "name": "Druid of the Stray",
+            "src": "https://i.imgur.com/zcE90D6.png",
             "type": "minion",
             "rarity": "rare",
             "set": 1    
         },
         {
             "hsClasses": ["Shaman"],
-            "name": "Druid of the Stray",
-            "src": "https://i.imgur.com/zcE90D6.png",
+            "name": "Tropical Tastologist",
+            "src": "https://i.imgur.com/tpufflG.png",
             "type": "minion",
             "rarity": "rare",
             "set": 1    
