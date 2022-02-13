@@ -176,7 +176,7 @@
         },
         {
             "hsClasses": ["Druid"],
-            "src": "https://i.imgur.com/8zeLWRa.png",
+            "src": "https://i.imgur.com/nwLgjMK.png",
             "set": 1
         },
         {
@@ -1348,6 +1348,14 @@
             "hsClasses": ["Shaman"],
             "name": "Tropical Tastologist",
             "src": "https://i.imgur.com/tpufflG.png",
+            "type": "minion",
+            "rarity": "rare",
+            "set": 1    
+        },
+        {
+            "hsClasses": ["Shaman"],
+            "name": "Druid of the Stray",
+            "src": "https://i.imgur.com/zcE90D6.png",
             "type": "minion",
             "rarity": "rare",
             "set": 1    
