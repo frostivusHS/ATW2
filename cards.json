@@ -22,7 +22,7 @@
         },
         {
             "hsClasses": ["Dunter"],
-            "src": "https://i.imgur.com/szfPAJ6.png",
+            "src": "https://i.imgur.com/ILDfNXh.png",
             "set": 1
         },
 
@@ -194,6 +194,11 @@
         },
         {
             "hsClasses": ["Druid"],
+            "src": "https://i.imgur.com/AcaI64A.png",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Druid"],
             "src": "https://i.imgur.com/9rqkJtn.png",
             "set": 1
         },
@@ -251,7 +256,7 @@
         },
         {
             "hsClasses": ["Druid"],
-            "src": "https://i.imgur.com/J8V5T8w.png",
+            "src": "https://i.imgur.com/J0xnw1k.png",
             "set": 1
         }
     ],
@@ -299,6 +304,11 @@
         },
         {
             "hsClasses": ["Hunter"],
+            "src": "https://i.imgur.com/PRbEW9T.png",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Hunter"],
             "src": "https://i.imgur.com/T0DdJU8.png",
             "set": 1
         },
@@ -316,11 +326,7 @@
             "keywords": ["https://i.imgur.com/TtZmJds.png", "https://i.imgur.com/ls59YdF.png"],
             "flavour": "Many days passed like this. A quiet sit by the campfire, staring back at red eyes in the shadows where the light did not touch."
         },
-        {
-            "hsClasses": ["Hunter"],
-            "src": "https://i.imgur.com/yI1h6rw.png",
-            "set": 1
-        },
+    
 
         {
             "hsClasses": ["Hunter"],
@@ -329,7 +335,7 @@
         },
         {
             "hsClasses": ["Hunter"],
-            "src": "https://i.imgur.com/yjgHoC1.png",
+            "src": "https://i.imgur.com/vStM8y3.png",
             "set": 1
         },
         {
