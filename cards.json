@@ -279,7 +279,6 @@
             "hsClasses": ["Hunter"],
             "src": "https://i.imgur.com/Ss07RPA.png",
             "set": 0,
-            "keywords": ["https://i.imgur.com/Ss07RPA.png"],
             "flavour": "If you yelled 'Tally ho!', the dog would run off to look for the nearest thing it considered edible. Most of the time it would be sticks, but that wasn't too bad either."
         },
         {
@@ -291,7 +290,6 @@
             "hsClasses": ["Hunter"],
             "src": "https://i.imgur.com/QdeTnJ5.png",
             "set": 0,
-            "keywords": ["https://i.imgur.com/QdeTnJ5.png"],
             "flavour": "When I was a wee lass I used to chase the hapless chicks on the farm around to pass the time. Years later, it seemed these vengeful poultry still remember."
         },
         {
@@ -485,7 +483,8 @@
             "hsClasses": ["Mage"],
             "src": "https://i.imgur.com/arhCOcQ.png",
             "set": 0,
-            "flavor": "A fruity tang lingered on my tastebuds, sizzling and popping."
+            "flavor": "A fruity tang lingered on my tastebuds, sizzling and popping.",
+            "keywords": ["https://i.imgur.com/OGCDiTV.png"]
         },
         {
             "hsClasses": ["Mage"],
@@ -729,7 +728,7 @@
         },
         {
             "hsClasses": ["Paladin"],
-            "src": "https://i.imgur.com/q2ceGqE.png",
+            "src": "https://i.imgur.com/yJixNOg.png",
             "set": 1
         },
         {
@@ -960,8 +959,8 @@
         },
         {
             "hsClasses": ["Priest"],
-            "name": "Asparagos",
-            "src": "https://i.imgur.com/7UDqVgW.png",
+            "name": "Mama Mulard",
+            "src": "https://i.imgur.com/yJixNOg.png",
             "type": "minion",
             "rarity": "legendary",
             "set": 1
@@ -1289,14 +1288,9 @@
             "type": "spell",
             "rarity": "rare",
             "set": 0,
-            "flavor": "It was thick and congealing, with a consistency that reminded me of liquefied blubber."
+            "flavor": "It was thick and congealing, with a consistency that reminded me of liquefied blubber.",
+            "keywords": ["https://i.imgur.com/OGCDiTV.png"]
         },
-        {
-            "hsClasses": ["Shaman"],
-            "src": "https://i.imgur.com/Pc3UcFl.png",
-            "set": 1
-        },
-
         {
             "hsClasses": ["Shaman"],
             "src": "https://i.imgur.com/LD1F3dX.png",
@@ -1304,64 +1298,148 @@
         },
         {
             "hsClasses": ["Shaman"],
+            "name": "Tradition",
             "src": "https://i.imgur.com/S1HM9FJ.png",
-            "set": 1
+            "type": "spell",
+            "rarity": "rare",
+            "set": 1      
         },
         {
             "hsClasses": ["Shaman"],
-            "src": "https://i.imgur.com/J1cxv55.png",
-            "set": 1
+            "name": "Polymeat",
+            "src": "https://i.imgur.com/qS4lc8Y.png",
+            "type": "spell",
+            "rarity": "rare",
+            "set": 1      
         },
         {
             "hsClasses": ["Shaman"],
+            "name": "Saucefin Panlicker",
+            "src": "https://i.imgur.com/2bCqn7N.png",
+            "type": "minion",
+            "rarity": "rare",
+            "set": 0,
+            "flavor": "It munched on the pot, then donned it as a hat. To call that 'cooking' would have been a bit of a stretch."      
+        },
+        {
+            "hsClasses": ["Shaman"],
+            "name": "Murloc Fin Recipe",
+            "src": "https://i.imgur.com/NTb6b1S.png",
+            "type": "spell",
+            "rarity": "rare",
+            "set": 0,
+            "flavor": "One thing I learned about murlocs was that they were delicious. Another thing I learned was that most of the other animals thought so too."      
+        },
+        {
+            "hsClasses": ["Shaman"],
+            "name": "Angler Juice",
             "src": "https://i.imgur.com/R82e5Yj.png",
-            "set": 1
+            "type": "spell",
+            "rarity": "rare",
+            "set": 1    
         },
         {
             "hsClasses": ["Shaman"],
+            "name": "Tropical Tastologist",
             "src": "https://i.imgur.com/tpufflG.png",
-            "set": 1
+            "type": "minion",
+            "rarity": "rare",
+            "set": 1    
         },
-
         {
             "hsClasses": ["Shaman"],
+            "name": "Loop and Scoop!",
+            "src": "https://i.imgur.com/SsLRCcy.png",
+            "type": "spell",
+            "rarity": "epic",
+            "keywords": ["https://i.imgur.com/Pfy2FNc.png"],
+            "set": 1    
+        },
+        {
+            "hsClasses": ["Shaman"],
+            "name": "Deviled Eggs Recipe",
+            "src": "https://i.imgur.com/1BaeB0c.png",
+            "type": "spell",
+            "rarity": "epic",
+            "set": 0,
+            "flavor": "It's barbaric, I know, but it's also part of their culture. And there's nothing you can do about it. Maybe not take a picture like I did, I guess."      
+        },
+        {
+            "hsClasses": ["Shaman"],
+            "name": "The Deepfried One",
             "src": "https://i.imgur.com/KxlY970.png",
-            "set": 1
+            "type": "minion",
+            "rarity": "epic",
+            "set": 1    
         },
         {
             "hsClasses": ["Shaman"],
-            "src": "https://i.imgur.com/pfYS65B.png",
-            "set": 1
+            "name": "Whiskfury",
+            "src": "https://i.imgur.com/cqkhJRb.png",
+            "type": "weapon",
+            "rarity": "epic",
+            "set": 0,
+            "flavor": "Scholars of Al'Akir had preserved many secrets from the WIndlord that withstood the test of time. A lesser-known one was how to whisk with only one hand."      
         },
         {
             "hsClasses": ["Shaman"],
+            "name": "Saltshaker",
             "src": "https://i.imgur.com/V2vynqX.png",
-            "set": 1
+            "type": "minion",
+            "rarity": "epic",
+            "set": 1    
         },
         {
             "hsClasses": ["Shaman"],
+            "name": "Supersize Me!",
             "src": "https://i.imgur.com/bllWb04.png",
-            "set": 1
+            "type": "spell",
+            "rarity": "epic",
+            "set": 1    
         },
-
         {
             "hsClasses": ["Shaman"],
+            "name": "Chillgill",
+            "src": "https://i.imgur.com/hbcEXBT.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 1    
+        },
+        {
+            "hsClasses": ["Shaman"],
+            "name": "Lord Glutenus",
             "src": "https://i.imgur.com/VBYgykl.png",
-            "set": 1
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 1    
         },
         {
             "hsClasses": ["Shaman"],
-            "src": "https://i.imgur.com/8Gpabya.png",
-            "set": 1,
-            "keywords": ["https://i.imgur.com/Pfy2FNc.png"]
-        },
-        {
-            "hsClasses": ["Shaman"],
+            "name": "The Earthmother",
             "src": "https://i.imgur.com/vjDbR2P.png",
-            "set": 1
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 1    
+        },
+        {
+            "hsClasses": ["Shaman"],
+            "name": "Tiki, Totem Spirit",
+            "src": "https://i.imgur.com/trIeZ7T.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 0,
+            "flavor": "Storm - to bring the rain that nourishes our lands\n\"Earth - to hold the soil that feeds our crops\n\"and lastly, Fire - to bring light so that  we may flourish"      
+        }
+        {
+            "hsClasses": ["Shaman"],
+            "name": "Ozumat",
+            "src": "https://i.imgur.com/2g496ha.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 0,
+            "flavor": "Every now and then the abyss vomits out a peculiar thing to maroon onto the beaches. The people always send something of equal value to return back in appeasement. They rather not learn what happens if they didn't."      
         }
     ],
-
     [
         {
             "hsClasses": ["Warlock"],
