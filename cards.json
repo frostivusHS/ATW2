@@ -176,7 +176,7 @@
         },
         {
             "hsClasses": ["Druid"],
-            "src": "https://i.imgur.com/ixzY1Ti.png",
+            "src": "https://i.imgur.com/8zeLWRa.png",
             "set": 1
         },
         {
@@ -205,15 +205,15 @@
         },
         {
             "hsClasses": ["Druid"],
+            "src": "https://i.imgur.com/gKwhDOa.png",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Druid"],
             "src": "https://i.imgur.com/o8TnxEf.png",
             "set": 0,
             "keywords": ["https://i.imgur.com/dLTlVOR.png"],
             "flavour": "Our trek was a silent one beyond beaten paths, with her occasionally pointing at the strange flora around us. A flower that glows can be used to cure gout. The one with legs could be used as an aphrodisiac.\n\"And if you ever see a plant with teeth, you're already dead.\""
-        },
-        {
-            "hsClasses": ["Druid"],
-            "src": "https://i.imgur.com/Nkvta6h.png",
-            "set": 1
         },
         {
             "hsClasses": ["Druid"],
@@ -346,7 +346,7 @@
         },
         {
             "hsClasses": ["Hunter"],
-            "src": "https://i.imgur.com/LcnOV6E.png",
+            "src": "https://i.imgur.com/BUTJHqO.png",
             "set": 1
         },
         {
@@ -384,7 +384,7 @@
         },
         {
             "hsClasses": ["Hunter"],
-            "src": "https://i.imgur.com/4p53vIA.png",
+            "src": "https://i.imgur.com/BZFU5nH.png",
             "set": 1
         },
         {
@@ -1945,11 +1945,6 @@
         },
         {
             "hsClasses": ["Neutral"],
-            "src": "https://i.imgur.com/VMr0vGP.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Neutral"],
             "src": "https://i.imgur.com/IEDI06p.png",
             "set": 1
         },
@@ -2091,7 +2086,7 @@
             "type": "minion",
             "rarity": "legendary",
             "set": 0,
-            "token": ["https://i.imgur.com/qyZHydu.png"],
+            "tokens": ["https://i.imgur.com/qyZHydu.png"],
             "flavor": "Dad must have sneaked in a picture of me when I was distracted. He's a goofball, but I have to say it actually came out pretty nicely."
         },
         {
@@ -2132,11 +2127,6 @@
         {
             "hsClasses": ["Neutral"],
             "src": "https://i.imgur.com/BVe8tu2.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Neutral"],
-            "src": "https://i.imgur.com/SbPfOzO.png",
             "set": 1
         },
         {
