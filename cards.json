@@ -1480,7 +1480,7 @@
         },
         {
             "hsClasses": ["Warlock"],
-            "name": "Stovebelly",
+            "name": "Potbelly",
             "src": "https://i.imgur.com/goscIo4.png",
             "type": "minion",
             "rarity": "common",
@@ -1683,95 +1683,250 @@
     [
         {
             "hsClasses": ["Warrior"],
-            "src": "https://i.imgur.com/M83135u.png",
+            "name": "Shrimpshell Bento",
+            "src": "https://i.imgur.com/0mFwWcs.png",
+            "type": "spell",
+            "rarity": "common",
+            "set": 0,
+            "flavor": "Eating its hard shell was said to give the fortitude necessary to endure a hard day's work."
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Dragonroll Sushi",
+            "src": "https://i.imgur.com/erxC00J.png",
+            "type": "spell",
+            "rarity": "common",
+            "set": 0,
+            "flavor": "I couldn't come all the way here and not eat the one staple food the world knew them for, could I?",
+            "keywords": ["https://i.imgur.com/OGCDiTV.png"]     
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Slice",
+            "src": "https://i.imgur.com/TQacrHs.png",
+            "type": "spell",
+            "rarity": "common",
             "set": 1
         },
         {
             "hsClasses": ["Warrior"],
+            "name": "Venom Saucier",
             "src": "https://i.imgur.com/mbBEiJo.png",
+            "type": "minion",
+            "rarity": "common",
             "set": 1
         },
         {
             "hsClasses": ["Warrior"],
-            "src": "https://i.imgur.com/oYKXkrQ.png",
+            "name": "Blackblood Buns",
+            "src": "https://i.imgur.com/kfVZt12.png",
+            "type": "spell",
+            "rarity": "common",
             "set": 1,
             "keywords": ["https://i.imgur.com/Pfy2FNc.png"]
         },
         {
             "hsClasses": ["Warrior"],
+            "name": "Rawskillet Apprentice",
             "src": "https://i.imgur.com/T79UjIh.png",
+            "type": "minion",
+            "rarity": "common",
             "set": 1
         },
         {
             "hsClasses": ["Warrior"],
-            "src": "https://i.imgur.com/nmp0lVI.png",
-            "set": 1
-        },
-
-
-        {
-            "hsClasses": ["Warrior"],
-            "src": "https://i.imgur.com/Kxeefql.png",
-            "set": 1
+            "name": "Iron Chef",
+            "src": "https://i.imgur.com/AKPFPU9.png",
+            "type": "minion",
+            "rarity": "common",
+            "set": 0,
+            "flavor": "'Bitter. Wriggling. Pungent as a mastodon's breath. Just the way we like it.'",
+            "keywords": ["https://i.imgur.com/OGCDiTV.png"]   
         },
         {
             "hsClasses": ["Warrior"],
+            "name": "Master Cutter",
+            "src": "https://i.imgur.com/dxzOPzx.png",
+            "type": "minion",
+            "rarity": "common",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Whisketeer",
+            "src": "https://i.imgur.com/KBb78UN.png",
+            "type": "minion",
+            "rarity": "common",
+            "set": 0,
+            "flavor": "For someone without opposable thumbs, they were surprisingly dextrous at holding the cooking utensils."
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Wasabi Spice",
+            "src": "https://i.imgur.com/UKT54Qq.png",
+            "type": "spell",
+            "rarity": "rare",
+            "set": 0,
+            "flavor": "It was stinging; overpowering even, like a brazen assault on all of my tastebuds.",
+            "keywords": "For someone without opposable thumbs, they were surprisingly dextrous at holding the cooking utensils."
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Fighting Makrura",
+            "src": "https://i.imgur.com/BdBxcQU.png",
+            "type": "minion",
+            "rarity": "rare",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Calamari of N'zoth",
+            "src": "https://i.imgur.com/Clif5xE.png",
+            "type": "spell",
+            "rarity": "rare",
+            "set": 0,
+            "flavor": "A local delicacy which origins lay rooted in triumph against an ancient foe, and a mocking desire to literally rub salt in its wounds.\n\"'It actually does nothing for the taste,' the waiter shared as he sprinkled the salt shaker, 'But we know it stings him still.'"
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Misfortune Cookie",
             "src": "https://i.imgur.com/P8ciYxn.png",
+            "type": "minion",
+            "rarity": "rare",
             "set": 1
         },
         {
             "hsClasses": ["Warrior"],
+            "name": "A Thousand Cuts",
+            "src": "https://i.imgur.com/VBNtWb6.png",
+            "type": "spell",
+            "rarity": "rare",
+            "set": 0,
+            "flavor": "Incredulously, I asked if the name of the technique was just a figure of speech.'Of course! Don't be silly,' the head chef scoffed, mid-swing, 'It takes at least two or three thousand before the drakescale even begins to crack.'"
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Teahouse Server",
             "src": "https://i.imgur.com/LUEr85B.png",
+            "type": "minion",
+            "rarity": "rare",
             "set": 1
         },
         {
             "hsClasses": ["Warrior"],
+            "name": "Drakescale Cutter",
             "src": "https://i.imgur.com/1rOYUfr.png",
+            "type": "weapon",
+            "rarity": "rare",
             "set": 1
         },
         {
             "hsClasses": ["Warrior"],
+            "name": "Calm Ripple",
             "src": "https://i.imgur.com/V77ntep.png",
-            "set": 1
-        },
-
-
-        {
-            "hsClasses": ["Warrior"],
-            "src": "https://i.imgur.com/QPWvcvq.png",
+            "type": "weapon",
+            "rarity": "rare",
             "set": 1
         },
         {
             "hsClasses": ["Warrior"],
+            "name": "Steamscale Soba",
+            "src": "https://i.imgur.com/P3owpMR.png",
+            "type": "minion",
+            "rarity": "epic",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Brilliant Stroke",
             "src": "https://i.imgur.com/sjruYL7.png",
+            "type": "spell",
+            "rarity": "epic",
             "set": 1
         },
         {
             "hsClasses": ["Warrior"],
+            "name": "Monster Platter",
+            "src": "https://i.imgur.com/8VsT6Us.png",
+            "type": "spell",
+            "rarity": "epic",
+            "set": 0,
+            "flavor": "I was pretty sure half of the names on this menu had way too many consonants to be even remotely pronounceable."
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Stovebelly Griller",
+            "src": "https://i.imgur.com/yU1YxEl.png",
+            "type": "minion",
+            "rarity": "epic",
+            "set": 0,
+            "flavor": "With their love for breathing fire and how most of the food here came from underneath five-inch-thick iron hides, I guessed it would make sense why the stovebelly drakes had been domesticated for nearly two thousand years."
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Iron Liver",
             "src": "https://i.imgur.com/MoPbm5T.png",
+            "type": "minion",
+            "rarity": "epic",
             "set": 1
         },
         {
             "hsClasses": ["Warrior"],
+            "name": "Barr'beque",
             "src": "https://i.imgur.com/4EtTadQ.png",
+            "type": "spell",
+            "rarity": "epic",
             "set": 1
         },
-
-
         {
             "hsClasses": ["Warrior"],
+            "name": "Nomi, Emperor's Feast",
             "src": "https://i.imgur.com/N9OlyiH.png",
+            "type": "minion",
+            "rarity": "legendary",
             "set": 1
         },
         {
             "hsClasses": ["Warrior"],
-            "src": "https://i.imgur.com/utOLV4k.png",
+            "name": "The Butcher",
+            "src": "https://i.imgur.com/g77M0Ca.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 0,
+            "flavor": "He diced the meat in a flurry of oft-practiced motion. Economical, but purposeful. All perfectly cut in equal sizes."
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Nomi, Emperor's Feast",
+            "src": "https://i.imgur.com/N9OlyiH.png",
+            "type": "minion",
+            "rarity": "legendary",
             "set": 1
         },
         {
             "hsClasses": ["Warrior"],
+            "name": "Ryuu Santoku",
             "src": "https://i.imgur.com/m5mpbgR.png",
+            "type": "weapon",
+            "rarity": "legendary",
             "set": 1
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Cap'n Crunch",
+            "src": "https://i.imgur.com/lf8LKV8.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Ugaijin Ironhida",
+            "src": "https://i.imgur.com/8IQCa5u.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 0,
+            "flavor": "Above me hung an iron-carved chandelier of the Prosperity God: 'With his igneous breath, he staves off the winter cold. With a buffet of his wings, he summons the monsoon rain.'\n\"My travelling partner bowed his head and mouthed the words. With a pointed glance from him, I promptly did the same."
         }
     ],
 
