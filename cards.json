@@ -199,7 +199,7 @@
         },
         {
             "hsClasses": ["Druid"],
-            "src": "https://i.imgur.com/9rqkJtn.png",
+            "src": "https://i.imgur.com/6o63EzK.png",
             "set": 1
         },
         {
@@ -570,7 +570,7 @@
         },
         {
             "hsClasses": ["Mage"],
-            "src": "https://i.imgur.com/V4J8Ssv.png",
+            "src": "https://i.imgur.com/TNsB9zz.png",
             "set": 1
         },
         {
@@ -913,20 +913,20 @@
         },
         {
             "hsClasses": ["Priest"],
+            "name": "Snack-o-Lantern",
+            "src": "https://i.imgur.com/ynJqgig.png",
+            "type": "minion",
+            "rarity": "epic",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Priest"],
             "name": "Cooking With Careme",
             "src": "https://i.imgur.com/tPJoDLZ.png",
             "type": "spell",
             "rarity": "epic",
             "set": 0,
             "flavor": "So I know what you're thinking: wow, how lucky I was to cook with the Supreme Chef!\n\"The truth was that I may have gone a bit over-budget with the dinner and thus had to work the debt off."
-        },
-        {
-            "hsClasses": ["Priest"],
-            "name": "Dame de la Creme",
-            "src": "https://i.imgur.com/HHqk9Kk.png",
-            "type": "minion",
-            "rarity": "epic",
-            "set": 1
         },
         {
             "hsClasses": ["Priest"],
@@ -1186,8 +1186,8 @@
         },
         {
             "hsClasses": ["Rogue"],
-            "name": "Professor Fermentor",
-            "src": "https://i.imgur.com/WjBXqOT.png",
+            "name": "Price Slasher Wendy",
+            "src": "https://i.imgur.com/QfRWp9m.png",
             "type": "minion",
             "rarity": "legendary",
             "set": 1       
@@ -1195,7 +1195,7 @@
         {
             "hsClasses": ["Rogue"],
             "name": "Captain Crunch",
-            "src": "https://i.imgur.com/YzDAWgy.png",
+            "src": "https://i.imgur.com/EmaNtQE.png",
             "type": "minion",
             "rarity": "legendary",
             "set": 1       
