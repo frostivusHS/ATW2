@@ -565,12 +565,12 @@
         },
         {
             "hsClasses": ["Mage"],
-            "src": "https://i.imgur.com/PDKZwep.png",
+            "src": "https://i.imgur.com/4fuExX1.png",
             "set": 1
         },
         {
             "hsClasses": ["Mage"],
-            "src": "https://i.imgur.com/4fuExX1.png",
+            "src": "https://i.imgur.com/PDKZwep.png",
             "set": 1
         },
         {
@@ -1164,7 +1164,7 @@
         {
             "hsClasses": ["Rogue"],
             "name": "Deal With McDevil",
-            "src": "https://i.imgur.com/DoUfScC.png",
+            "src": "https://i.imgur.com/fq1SHqs.png",
             "type": "spell",
             "rarity": "legendary",
             "set": 1
