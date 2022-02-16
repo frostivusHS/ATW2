@@ -17,7 +17,7 @@
         },
         {
             "hsClasses": ["Dunter"],
-            "src": "https://i.imgur.com/aFWcqez.png",
+            "src": "https://i.imgur.com/q8dSady.png",
             "set": 1
         },
         {
@@ -65,7 +65,7 @@
         },
         {
             "hsClasses": ["Dunter"],
-            "src": "https://i.imgur.com/pfSGvp3.png",
+            "src": "https://i.imgur.com/bWjmgZs.png",
             "set": 1
         },
         {
@@ -76,17 +76,17 @@
 
         {
             "hsClasses": ["Dunter"],
-            "src": "https://i.imgur.com/DbgDREe.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Dunter"],
             "src": "https://i.imgur.com/i28cgjj.png",
             "set": 1
         },
         {
             "hsClasses": ["Dunter"],
-            "src": "https://i.imgur.com/uBfiOZ5.png",
+            "src": "https://i.imgur.com/jmFhSmR.png",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Dunter"],
+            "src": "https://i.imgur.com/O3Sq5lM.png",
             "set": 1
         }
     ],
@@ -570,9 +570,8 @@
         },
         {
             "hsClasses": ["Mage"],
-            "src": "https://i.imgur.com/nJrifWD.png",
-            "set": 1,
-            "tokens": ["https://i.imgur.com/KGBffcU.png"]
+            "src": "https://i.imgur.com/4fuExX1.png",
+            "set": 1
         },
         {
             "hsClasses": ["Mage"],
@@ -2100,7 +2099,7 @@
         },
         {
             "hsClasses": ["Neutral"],
-            "name": "Aletta, Back On The Road",
+            "name": "Munchkin",
             "src": "https://i.imgur.com/aFw1VeI.png",
             "type": "minion",
             "rarity": "legendary",
@@ -2110,6 +2109,14 @@
             "hsClasses": ["Neutral"],
             "name": "World-Traveller Pepe",
             "src": "https://i.imgur.com/78kZuZC.png",
+            "type": "minion",
+            "rarity": "legendary",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Neutral"],
+            "name": "Sandwitch Nazja",
+            "src": "https://i.imgur.com/Mv8HcRG.png",
             "type": "minion",
             "rarity": "legendary",
             "set": 1
