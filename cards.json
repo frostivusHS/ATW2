@@ -12,12 +12,12 @@
         },
         {
             "hsClasses": ["Dunter"],
-            "src": "https://i.imgur.com/LbyH92H.png",
+            "src": "https://i.imgur.com/Jc55fD1.png",
             "set": 1
         },
         {
             "hsClasses": ["Dunter"],
-            "src": "https://i.imgur.com/q8dSady.png",
+            "src": "https://i.imgur.com/LbyH92H.png",
             "set": 1
         },
         {
@@ -76,7 +76,7 @@
 
         {
             "hsClasses": ["Dunter"],
-            "src": "https://i.imgur.com/i28cgjj.png",
+            "src": "https://i.imgur.com/Q8wG8mf.png",
             "set": 1
         },
         {
@@ -155,12 +155,6 @@
         },
         {
             "hsClasses": ["Druid"],
-            "src": "https://i.imgur.com/8mCTQ1R.png",
-            "set": 1,
-            "keywords": ["https://i.imgur.com/Pfy2FNc.png"]
-        },
-        {
-            "hsClasses": ["Druid"],
             "src": "https://i.imgur.com/MWakyVy.png",
             "set": 1
         },
@@ -168,6 +162,12 @@
             "hsClasses": ["Druid"],
             "src": "https://i.imgur.com/M6Su9mG.png",
             "set": 1
+        },
+        {
+            "hsClasses": ["Druid"],
+            "src": "https://i.imgur.com/XeU96bI.png",
+            "set": 1,
+            "keywords": ["https://i.imgur.com/Pfy2FNc.png"]
         },
         {
             "hsClasses": ["Druid"],
@@ -396,7 +396,7 @@
         },
         {
             "hsClasses": ["Hunter"],
-            "src": "https://i.imgur.com/QJ3EVjB.png",
+            "src": "https://i.imgur.com/BXH8VYM.png",
             "set": 1
         },
         {
@@ -570,7 +570,7 @@
         },
         {
             "hsClasses": ["Mage"],
-            "src": "https://i.imgur.com/PDKZwep.png",
+            "src": "https://i.imgur.com/2qfnvfj.png",
             "set": 1
         },
         {
@@ -1164,9 +1164,10 @@
         {
             "hsClasses": ["Rogue"],
             "name": "Deal With McDevil",
-            "src": "https://i.imgur.com/lsQ7cf2.png",
+            "src": "https://i.imgur.com/Az7ugP6.png",
             "type": "spell",
             "rarity": "legendary",
+            "keywords": ["https://i.imgur.com/dLTlVOR.png"],
             "set": 1
         },
         {
@@ -1181,7 +1182,7 @@
         {
             "hsClasses": ["Rogue"],
             "name": "Price Slasher Wendy",
-            "src": "https://i.imgur.com/hUv5mkh.png",
+            "src": "https://i.imgur.com/YA74iTA.png",
             "type": "minion",
             "rarity": "legendary",
             "set": 1       
@@ -1958,11 +1959,6 @@
         },
         {
             "hsClasses": ["Neutral"],
-            "src": "https://i.imgur.com/Y2eTOWa.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Neutral"],
             "src": "https://i.imgur.com/PxAl76C.png",
             "set": 1
         },
@@ -1973,12 +1969,7 @@
         },
         {
             "hsClasses": ["Neutral"],
-            "src": "https://i.imgur.com/sr0PAhm.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Neutral"],
-            "src": "https://i.imgur.com/EU36cMH.png",
+            "src": "https://i.imgur.com/6xjBHxf.png",
             "set": 1
         },
         {
@@ -2067,16 +2058,6 @@
         },
         {
             "hsClasses": ["Neutral"],
-            "src": "https://i.imgur.com/IaaMNQr.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Neutral"],
-            "src": "https://i.imgur.com/gRDmiwM.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Neutral"],
             "src": "https://i.imgur.com/lakCWur.png",
             "set": 1
         },
@@ -2092,19 +2073,7 @@
             "tokens": ["https://i.imgur.com/qyZHydu.png"],
             "flavor": "Dad must have sneaked in a picture of me when I was distracted. He's a goofball, but I have to say it actually came out pretty nicely."
         },
-        {
-            "hsClasses": ["Neutral"],
-            "src": "https://i.imgur.com/SWFSM9b.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Neutral"],
-            "name": "Munchkin",
-            "src": "https://i.imgur.com/aFw1VeI.png",
-            "type": "minion",
-            "rarity": "legendary",
-            "set": 1
-        },
+    
         {
             "hsClasses": ["Neutral"],
             "name": "World-Traveller Pepe",
@@ -2120,6 +2089,14 @@
             "type": "minion",
             "rarity": "legendary",
             "set": 1
+        },
+        {
+            "hsClasses": ["Neutral"],
+            "name": "Aletta, Back On The Road",
+            "src": "https://i.imgur.com/8lHsxqK.png",
+            "set": 1,
+            "type": "minion",
+            "rarity": "legendary"
         },
         {
             "hsClasses": ["Neutral"],
