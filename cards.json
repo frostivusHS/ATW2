@@ -81,7 +81,7 @@
         },
         {
             "hsClasses": ["Dunter"],
-            "src": "https://i.imgur.com/jmFhSmR.png",
+            "src": "https://i.imgur.com/qiP8gfa.png",
             "set": 1
         },
         {
@@ -1164,7 +1164,7 @@
         {
             "hsClasses": ["Rogue"],
             "name": "Deal With McDevil",
-            "src": "https://i.imgur.com/fq1SHqs.png",
+            "src": "https://i.imgur.com/lsQ7cf2.png",
             "type": "spell",
             "rarity": "legendary",
             "set": 1
@@ -1656,8 +1656,8 @@
         },
         {
             "hsClasses": ["Warlock"],
-            "name": "Feronas Stewblade",
-            "src": "https://i.imgur.com/e7u5THy.png",
+            "name": "Chef Kyel",
+            "src": "https://i.imgur.com/ljeHNGm.png",
             "type": "minion",
             "rarity": "legendary",
             "set": 1
