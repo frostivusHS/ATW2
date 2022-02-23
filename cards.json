@@ -49,7 +49,7 @@
         },
         {
             "hsClasses": ["Dunter"],
-            "src": "https://i.imgur.com/tvMLtpi.png",
+            "src": "https://i.imgur.com/aFyWJTa.png",
             "set": 1
         },
 
@@ -330,11 +330,6 @@
         },
         {
             "hsClasses": ["Hunter"],
-            "src": "https://i.imgur.com/vStM8y3.png",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Hunter"],
             "src": "https://i.imgur.com/UtLgLUr.png",
             "set": 1
         },
@@ -358,7 +353,12 @@
         },
         {
             "hsClasses": ["Hunter"],
-            "src": "https://i.imgur.com/orLBHAc.png",
+            "src": "https://i.imgur.com/dLOws15.png",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Hunter"],
+            "src": "https://i.imgur.com/vStM8y3.png",
             "set": 1
         },
 
@@ -659,7 +659,7 @@
             "src": "https://i.imgur.com/oKPY84v.png",
             "keywords": ["https://i.imgur.com/dLTlVOR.png"],
             "set": 0,
-            "tokens": ["https://i.imgur.com/pFawSQJ.png"],
+            "tokens": ["https://i.imgur.com/N9Fihzi.png"],
             "flavor": "Young talent is nurtured early here, with lots of leeway for experimenting."
         },
         {
@@ -1454,7 +1454,7 @@
             "hsClasses": ["Warlock"],
             "src": "https://i.imgur.com/omLgh1W.png",
             "set": 1,
-            "tokens": ["https://i.imgur.com/pFawSQJ.png"]
+            "tokens": ["https://i.imgur.com/N9Fihzi.png"]
         },
         {
             "hsClasses": ["Warlock"],
@@ -1472,7 +1472,7 @@
             "type": "minion",
             "rarity": "common",
             "set": 1,
-            "tokens": ["https://i.imgur.com/pFawSQJ.png"]
+            "tokens": ["https://i.imgur.com/N9Fihzi.png"]
         },
         {
             "hsClasses": ["Warlock"],
@@ -1489,7 +1489,7 @@
             "type": "minion",
             "rarity": "common",
             "set": 1,
-            "tokens": ["https://i.imgur.com/pFawSQJ.png"]
+            "tokens": ["https://i.imgur.com/N9Fihzi.png"]
         },
         {
             "hsClasses": ["Warlock"],
@@ -1551,7 +1551,7 @@
             "type": "minion",
             "rarity": "rare",
             "set": 1,
-            "tokens": ["https://i.imgur.com/pFawSQJ.png"]
+            "tokens": ["https://i.imgur.com/N9Fihzi.png"]
         },
         {
             "hsClasses": ["Warlock"],
@@ -1620,7 +1620,7 @@
             "type": "spell",
             "rarity": "epic",
             "set": 1,
-            "tokens": ["https://i.imgur.com/pFawSQJ.png"]
+            "tokens": ["https://i.imgur.com/N9Fihzi.png"]
         },
         {
             "hsClasses": ["Warlock"],
