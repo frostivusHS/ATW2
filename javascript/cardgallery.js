@@ -33,6 +33,8 @@ function createGallery(div, cards, maxWidth) {
         wrapper.append(card);
         div.append(wrapper);
     }
+
+    showClass(div, shownClass, shownSets);
 }
 
 function setUpLibraryGrid(div, cardAmount, maxWidth) {
@@ -50,9 +52,11 @@ function setUpLibraryGrid(div, cardAmount, maxWidth) {
     div.style.gridColumnGap = `${cardGap}px`;
     div.style.gridRowGap = `${cardGap}px`;
     div.style.margin = "auto";
+
+    if (cardAmount == 0) div.style.height = "0px";
 }
 
-var shownClass = "All", shownSets = [true, true];
+var shownClass = "None", shownSets = [true, true];
 /**
  * 
  * @param {HTMLDivElement} div 
@@ -60,6 +64,7 @@ var shownClass = "All", shownSets = [true, true];
  * @param {Boolean[]} sets Shows for each set whether it's shown or not
  */
 function showClass(div, hsClass, sets) {
+
     const wrappers = div.getElementsByClassName("Card_Wrapper");
     let totalShown = 0;
     for (let i = 0; i < wrappers.length; i++) {
@@ -74,6 +79,11 @@ function showClass(div, hsClass, sets) {
                 hasSet = true;
                 break;
             }
+        }
+
+        if (hsClass == "None") {
+            wrappers[i].style.display = "none";
+            continue;
         }
 
         if (hasClass && hasSet) {

@@ -1,0 +1,17 @@
+#titlescreen {
+    width: 70vw;
+    margin: auto;
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-shadow: 0px 0px 5px black;
+}
+
+#logo {
+    margin: auto;
+    width: 70vh;
+    height: auto;
+    display: block;
+    box-shadow: 0px 0px 2px 2px gray;
+}

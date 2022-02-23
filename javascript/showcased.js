@@ -40,6 +40,15 @@ function displayDetails(card) {
         }
     }
 
+    if (card.flavour !== undefined) {
+        moreDetails = true;
+        info.innerHTML += "<br> <p2>Flavour: </p2>";
+        
+        info.innerHTML += "<i>" + card.flavour + "</i>";
+
+        info.innerHTML += " <br></br>";
+    }
+
     if (!moreDetails) {
         info.innerHTML += "<p1>None</p1>";
     }

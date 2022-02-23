@@ -16,7 +16,7 @@ window.onclick = function(event) {
   }
 
 
-const options = ["All", "Neutral", "Dunter", "Druid", "Hunter", "Mage", "Paladin", "Priest", "Rogue", "Shaman", "Warlock", "Warrior"];
+const options = ["Dunter", "Druid", "Hunter", "Mage", "Paladin", "Priest", "Rogue", "Shaman", "Warlock", "Warrior", "Neutral", "All"];
 const menu = document.getElementById("class_dropdown");
 
 for (let i = 0; i < options.length; i++) {
@@ -34,6 +34,7 @@ for (let i = 0; i < options.length; i++) {
         shownClass = c;
         showClass(document.getElementById("gallery"), shownClass, shownSets);
         window.scrollTo(0, 0);
+        document.getElementById("titlescreen").style.display = "none";
         //showClass(document.getElementById("gallery"), c);
     }
 
