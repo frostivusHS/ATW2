@@ -1113,14 +1113,6 @@
         },
         {
             "hsClasses": ["Rogue"],
-            "name": "Club Member",
-            "src": "https://i.imgur.com/cmtbr3t.png",
-            "type": "minion",
-            "rarity": "epic",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Rogue"],
             "name": "Junk Food Cravings",
             "src": "https://i.imgur.com/9GUTfom.png",
             "type": "spell",
