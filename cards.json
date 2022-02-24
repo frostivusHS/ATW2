@@ -1005,14 +1005,6 @@
         },
         {
             "hsClasses": ["Rogue"],
-            "name": "Venom Saucier",
-            "src": "https://i.imgur.com/IqU9ZDF.png",
-            "type": "minion",
-            "rarity": "common",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Rogue"],
             "name": "On Time Or It's Free!",
             "src": "https://i.imgur.com/RPq3xv6.png",
             "type": "spell",
@@ -1038,8 +1030,16 @@
         },
         {
             "hsClasses": ["Rogue"],
+            "name": "Club Member",
+            "src": "https://i.imgur.com/QkrmX5n.png",
+            "type": "minion",
+            "rarity": "common",
+            "set": 1
+        },
+        {
+            "hsClasses": ["Rogue"],
             "name": "Big Mac",
-            "src": "https://i.imgur.com/FM0yBb0.png",
+            "src": "https://i.imgur.com/0O7sS7o.png",
             "type": "minion",
             "rarity": "common",
             "set": 1
@@ -1144,6 +1144,14 @@
             "rarity": "epic",
             "set": 0,
             "flavor": "Tip for future trips: Gilneas is not a place for tourists."
+        },
+        {
+            "hsClasses": ["Rogue"],
+            "name": "Sloppy Joe",
+            "src": "https://i.imgur.com/mn9yWoD.png",
+            "type": "minion",
+            "rarity": "epic",
+            "set": 1
         },
         {
             "hsClasses": ["Rogue"],
@@ -1714,14 +1722,6 @@
         },
         {
             "hsClasses": ["Warrior"],
-            "name": "Venom Saucier",
-            "src": "https://i.imgur.com/mbBEiJo.png",
-            "type": "minion",
-            "rarity": "common",
-            "set": 1
-        },
-        {
-            "hsClasses": ["Warrior"],
             "name": "Blackblood Buns",
             "src": "https://i.imgur.com/kfVZt12.png",
             "type": "spell",
@@ -1732,7 +1732,7 @@
         {
             "hsClasses": ["Warrior"],
             "name": "Rawskillet Apprentice",
-            "src": "https://i.imgur.com/T79UjIh.png",
+            "src": "https://i.imgur.com/PAAe6Yc.png",
             "type": "minion",
             "rarity": "common",
             "set": 1
@@ -1746,6 +1746,14 @@
             "set": 0,
             "flavor": "'Bitter. Wriggling. Pungent as a mastodon's breath. Just the way we like it.'",
             "keywords": ["https://i.imgur.com/OGCDiTV.png"]   
+        },
+        {
+            "hsClasses": ["Warrior"],
+            "name": "Big Mac",
+            "src": "https://i.imgur.com/XBb3RwI.png",
+            "type": "minion",
+            "rarity": "common",
+            "set": 1
         },
         {
             "hsClasses": ["Warrior"],
